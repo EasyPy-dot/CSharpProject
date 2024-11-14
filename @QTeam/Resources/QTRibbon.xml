@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="OnRibbon">
+  <ribbon startFromScratch="false">
+    <tabs>
+      <tab id="qteamTab" label="@QTeam" insertAfterMso="TabAddIns">
+        <group id="qteamGroup" label="@QTeam">
+          <dropDown id="qtQueryItem" label="項目" imageMso="FormulaMoreFunctionsMenu" onAction="OnQuerySelectionChanged">
+            <item id ="匯率" label="即時匯率" imageMso="AccountingFormat"/>
+            <item id="上櫃交易量" label="櫃交易量" imageMso="ActionInsert"/>
+          </dropDown>
+          
+          <separator id="separator1"/>
+          <editBox id="qtKeysBox" label="關鍵字" imageMso="AddNewRssFeed" onChange="OnKeysChange" getText="GetKeysText"/>
+          <button id="qtSearchButton" label="搜尋" imageMso="DrawingExplorer" size="large" onAction="OnSearchButtonClick" />
+
+          <separator id="separator3"/>
+          <button id="flnAboutButton" label="關於" imageMso= "Help" size="large" onAction="OnAboutButtonClick" />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
