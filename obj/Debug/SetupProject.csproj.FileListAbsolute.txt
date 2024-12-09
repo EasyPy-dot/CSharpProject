@@ -1,0 +1,14 @@
+D:\Fubon\test project\SetupProject\bin\Debug\SetupProject.exe.config
+D:\Fubon\test project\SetupProject\bin\Debug\SetupProject.exe
+D:\Fubon\test project\SetupProject\bin\Debug\SetupProject.pdb
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.csproj.AssemblyReference.cache
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.csproj.CoreCompileInputs.cache
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.exe
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.pdb
+D:\Fubon\test project\SetupProject\bin\Debug\SetupProject.exe.manifest
+D:\Fubon\test project\SetupProject\bin\Debug\SetupProject.application
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.TrustInfo.xml
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.exe.manifest
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.application
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.ProjectInstaller.resources
+D:\Fubon\test project\SetupProject\obj\Debug\SetupProject.csproj.GenerateResource.cache
