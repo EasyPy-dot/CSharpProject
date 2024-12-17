@@ -17,7 +17,7 @@ namespace AutoUpdaterTest
                 AutoUpdateTools.StartUpdaterAsync("https://github.com/EasyPy-dot/CSharpProject/raw/refs/heads/autoupdater_sample/AutoUpdater.json");
                 
             });
-            await Task.Delay(15000);
+            await Task.Delay(5000);
         }
     }
 }
