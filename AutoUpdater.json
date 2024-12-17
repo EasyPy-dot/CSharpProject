@@ -1,0 +1,13 @@
+{
+   "version":"1.2024.1215.0",
+   "url":"https://github.com/EasyPy-dot/CSharpProject/raw/refs/heads/autoupdater_sample/AutoUpdaterTest-debug.1.2024.1215.0.zip",
+   "mandatory":{
+      "value":true,
+      "minVersion": "1.2024.1215.0",
+      "mode":1
+   },
+   "checksum":{
+      "value":"23cc9a81bc46ddb992a67ef7ecdbea8571652129",
+      "hashingAlgorithm":"MD5"
+   }
+}
